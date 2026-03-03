@@ -1,0 +1,14 @@
+streamlit
+firebase-admin
+groq
+python-dotenv
+PyMuPDF
+
+python-pptx
+paddleocr
+paddlepaddle
+
+torch
+transformers
+pillow
+accelerate
